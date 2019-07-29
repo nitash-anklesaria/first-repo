@@ -5,5 +5,3 @@ Created for training in IBM
 
 1. Master Branch - No direct change is allowed
 2. Dev Branch - Changes are allowed
-
-extra line in master branch
